@@ -734,6 +734,13 @@ textarea {
   height: 300px;
 }
 
+.pl-60{
+  padding-left: 60px;
+}
+.pb-30{
+  padding-bottom: 30px;
+}
+
 /* -------------------------------------------
 
 breadcrumbs
